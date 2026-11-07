@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#000000"/>
+  <!-- Left Pillar -->
+  <path d="M12 7h7v34h-7z" fill="#B1060F"/>
+  <!-- Right Pillar -->
+  <path d="M29 7h7v34h-7z" fill="#B1060F"/>
+  <!-- Drop shadow behind diagonal ribbon -->
+  <path d="M19 7l17 34h-4L19 13z" fill="rgba(0,0,0,0.3)"/>
+  <!-- Diagonal Ribbon (on top) -->
+  <path d="M12 7h7l17 34h-7z" fill="#E50914"/>
+</svg>

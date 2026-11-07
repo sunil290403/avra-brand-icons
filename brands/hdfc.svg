@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="48" height="48">
+  <!-- Clean Crisp White Background -->
+  <rect width="32" height="32" rx="7" fill="#FFFFFF"/>
+  <!-- Inner Emblem Centered at 24x24 in 32x32 (offset x=4, y=4) -->
+  <g transform="translate(4, 4)">
+    <!-- 4 Red L-shape Corners -->
+    <path fill="#ED1C24" d="M.572 0v10.842h3.712V4.485h6.381V0Z"/>
+    <path fill="#ED1C24" d="M12.985 0v4.485h6.383v6.357h4.06V0Z"/>
+    <path fill="#ED1C24" d="M.572 13.153V24h10.093v-4.486h-6.38v-6.361z"/>
+    <path fill="#ED1C24" d="M19.368 13.153v6.361h-6.383V24h10.443V13.153Z"/>
+    <!-- Center Bank Blue Square -->
+    <path fill="#004C8F" d="M8.345 8.53v6.938h6.963V8.53Z"/>
+  </g>
+</svg>

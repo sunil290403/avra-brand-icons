@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Crisp Premium Card Background -->
+  <rect width="100" height="100" rx="22" fill="#FFFFFF"/>
+  <!-- GIVA Circular G Monogram with negative space -->
+  <g transform="translate(50, 40)">
+    <!-- Outer delicate jewelry ring in Deep Blush (#E9708A) -->
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#E9708A" stroke-width="3.5"/>
+    <!-- Sparkle Rhombus in the center / top right -->
+    <path d="M0 -15 L4 -6 L13 -3 L4 0 L0 9 L-4 0 L-13 -3 L-4 -6 Z" fill="#E9708A"/>
+    <!-- Delicate inner gemstone circle -->
+    <circle cx="0" cy="-3" r="1.8" fill="#FFFFFF"/>
+  </g>
+  <!-- GIVA official wordmark in Cod Gray (#121212) -->
+  <text x="50" y="82" font-family="'Cinzel', 'Playfair Display', 'Didot', -apple-system, sans-serif" font-size="18" font-weight="700" fill="#121212" text-anchor="middle" letter-spacing="4">GIVA</text>
+</svg>
